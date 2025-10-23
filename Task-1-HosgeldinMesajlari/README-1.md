@@ -1,3 +1,7 @@
+Esmanur Ulu 
+öğrenci no : 250541132
+bu ödevi yaparken intellij IDEA dan yararlandım 
+
 Görev 1.1(Üç Mesaj);
 Bu Görevde println yapısı kullanılarak 3 mesaj yazdırılmıştır ve aşağıdaki gibi terminal çıktısı alınmıştır.
 
@@ -11,3 +15,4 @@ Görev1.3 (Java Deseni);
 Bu görevde Java deseni System.out.println()  ve System.out.print() arasındaki farkı anlamak ve bunları kullanarak çıktı akışını görmemiz sağlanmıştır.
 
 <img width="1829" height="427" alt="Ekran görüntüsü 2025-10-23 224615" src="https://github.com/user-attachments/assets/f250070e-9b90-40fd-ae10-5273ccc9c3ab" />
+
